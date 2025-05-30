@@ -20,7 +20,11 @@ const app = express();
 // CORS 미들웨어 (app.use(express.json()) 이전에 위치)
 app.use(
   cors({
-    origin: ["http://localhost:3000", "http://127.0.0.1:5000"],
+    origin: [
+      "http://localhost:3000",
+      "http://127.0.0.1:5000",
+      "http://lyj72011648.cafe24.com",
+    ],
     // origin: "*",
     methods: ["GET", "POST", "PUT", "DELETE", "OPTIONS"],
     allowedHeaders: ["Content-Type", "Authorization", "OpenAI-Beta"],
