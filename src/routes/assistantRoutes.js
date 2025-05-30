@@ -51,7 +51,7 @@ router.get("/threadList", authenticateToken, async (req, res) => {
 });
 
 // 대화 보내기
-router.post("/ask", authenticateToken, askLimiter, async (req, res) => {
+router.post("/ask", authenticateToken, async (req, res) => {
   const { messages, threadId } = req.body;
 
   const userMessages = messages?.filter((msg) => msg.type === "user").slice(-1);
