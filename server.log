@@ -1,0 +1,15 @@
+/Users/ethan/Development/konnect/server/node_modules/bson/lib/bson.cjs:155
+        TextDecoderFatal ??= new TextDecoder('utf8', { fatal: true });
+                         ^^^
+
+SyntaxError: Unexpected token '??='
+    at wrapSafe (internal/modules/cjs/loader.js:1029:16)
+    at Module._compile (internal/modules/cjs/loader.js:1078:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1143:10)
+    at Module.load (internal/modules/cjs/loader.js:979:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:819:12)
+    at Module.require (internal/modules/cjs/loader.js:1003:19)
+    at require (internal/modules/cjs/helpers.js:107:18)
+    at Object.<anonymous> (/Users/ethan/Development/konnect/server/node_modules/mongodb/lib/bson.js:9:16)
+    at Module._compile (internal/modules/cjs/loader.js:1114:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1143:10)

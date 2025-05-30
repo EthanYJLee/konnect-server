@@ -1,0 +1,73 @@
+{
+    "여행": {
+      "ko": ["여행", "관광", "호텔", "숙박", "투어", "명소", "일정", "비행기표", "여행사", "가이드"],
+      "en": ["travel", "tour", "hotel", "accommodation", "itinerary", "attraction", "ticket", "agency", "guide", "sightseeing"],
+      "ja": ["旅行", "観光", "ホテル", "宿泊", "ツアー", "名所", "日程", "航空券", "旅行会社", "ガイド"],
+      "zh": ["旅行", "观光", "酒店", "住宿", "行程", "景点", "机票", "旅行社", "导游"],
+      "vi": ["du lịch", "tham quan", "khách sạn", "chỗ ở", "lịch trình", "địa điểm", "vé máy bay", "hướng dẫn viên", "công ty du lịch"]
+    },
+    "교통": {
+      "ko": ["버스", "지하철", "택시", "교통", "환승", "노선", "정류장", "시간표", "대중교통", "운행", "요금", "교통카드", "이동"],
+      "en": ["bus", "subway", "taxi", "transportation", "transfer", "route", "stop", "schedule", "public transport", "fare", "card", "move"],
+      "ja": ["バス", "地下鉄", "タクシー", "交通", "乗り換え", "ルート", "停留所", "時刻表", "公共交通", "料金", "移動"],
+      "zh": ["公交车", "地铁", "出租车", "交通", "换乘", "路线", "车站", "时刻表", "公共交通", "运行", "费用", "交通卡"],
+      "vi": ["xe buýt", "tàu điện ngầm", "taxi", "giao thông", "chuyển tuyến", "lộ trình", "trạm", "thời gian biểu", "vận hành", "phí", "thẻ giao thông"]
+    },
+    "음식": {
+      "ko": ["음식", "식당", "맛집", "메뉴", "요리", "식사", "점심", "저녁", "아침", "레스토랑", "추천", "주문", "배달"],
+      "en": ["food", "restaurant", "menu", "meal", "dish", "lunch", "dinner", "breakfast", "delivery", "order", "recommend"],
+      "ja": ["食べ物", "レストラン", "メニュー", "料理", "食事", "昼ごはん", "夕食", "朝ごはん", "デリバリー", "注文", "おすすめ"],
+      "zh": ["食物", "餐厅", "菜单", "菜", "午餐", "晚餐", "早餐", "点餐", "推荐", "外卖"],
+      "vi": ["thức ăn", "nhà hàng", "thực đơn", "bữa ăn", "món ăn", "bữa trưa", "bữa tối", "bữa sáng", "giao hàng", "gọi món", "gợi ý"]
+    },
+    "통신": {
+      "ko": ["통신", "인터넷", "와이파이", "wifi", "데이터", "휴대폰", "유심", "SIM", "전화", "핸드폰", "충전", "신호", "핫스팟"],
+      "en": ["communication", "internet", "wifi", "data", "phone", "sim card", "signal", "charge", "call", "hotspot"],
+      "ja": ["通信", "インターネット", "Wi-Fi", "データ", "携帯電話", "SIMカード", "電話", "信号", "充電", "ホットスポット"],
+      "zh": ["通信", "互联网", "WiFi", "数据", "手机", "SIM卡", "信号", "电话", "充电", "热点"],
+      "vi": ["truyền thông", "internet", "wifi", "dữ liệu", "điện thoại", "thẻ SIM", "tín hiệu", "gọi", "sạc", "hotspot"]
+    },
+    "병원": {
+      "ko": ["병원", "진료", "약국", "의사", "응급실", "의료", "건강", "치료", "예약", "증상", "처방", "진단", "검사"],
+      "en": ["hospital", "clinic", "doctor", "pharmacy", "emergency", "treatment", "health", "medicine", "appointment", "symptom", "diagnosis"],
+      "ja": ["病院", "診療", "薬局", "医者", "救急", "治療", "健康", "薬", "予約", "症状", "診断", "検査"],
+      "zh": ["医院", "诊疗", "药店", "医生", "急诊", "医疗", "健康", "药物", "预约", "症状", "诊断", "检查"],
+      "vi": ["bệnh viện", "khám bệnh", "hiệu thuốc", "bác sĩ", "cấp cứu", "y tế", "sức khỏe", "thuốc", "đặt lịch", "triệu chứng", "chẩn đoán", "kiểm tra"]
+    },
+    "숙소": {
+        "ko": ["숙소", "호텔", "게스트하우스", "호스텔", "예약", "방", "체크인", "체크아웃", "에어비앤비"],
+        "en": ["accommodation", "hotel", "guesthouse", "hostel", "reservation", "room", "check-in", "check-out", "airbnb"],
+        "ja": ["宿泊", "ホテル", "ゲストハウス", "ホステル", "予約", "部屋", "チェックイン", "チェックアウト", "エアビーアンドビー"],
+        "zh": ["住宿", "酒店", "民宿", "旅馆", "预订", "房间", "入住", "退房", "爱彼迎"],
+        "vi": ["chỗ ở", "khách sạn", "nhà khách", "nhà trọ", "đặt phòng", "phòng", "nhận phòng", "trả phòng", "airbnb"]
+    },
+    "쇼핑": {
+        "ko": ["쇼핑", "기념품", "상점", "마켓", "백화점", "할인", "면세점", "가격", "영수증", "결제"],
+        "en": ["shopping", "souvenir", "store", "market", "mall", "discount", "duty-free", "price", "receipt", "payment"],
+        "ja": ["ショッピング", "お土産", "店", "マーケット", "デパート", "割引", "免税店", "値段", "レシート", "支払い"],
+        "zh": ["购物", "纪念品", "商店", "市场", "商场", "折扣", "免税店", "价格", "收据", "付款"],
+        "vi": ["mua sắm", "quà lưu niệm", "cửa hàng", "chợ", "trung tâm thương mại", "giảm giá", "miễn thuế", "giá", "hóa đơn", "thanh toán"]
+    },
+    "문화": {
+        "ko": ["문화", "역사", "전통", "박물관", "사원", "궁궐", "축제", "의식", "한복", "공연"],
+        "en": ["culture", "history", "tradition", "museum", "temple", "palace", "festival", "ceremony", "hanbok", "performance"],
+        "ja": ["文化", "歴史", "伝統", "博物館", "寺", "宮殿", "祭り", "儀式", "韓服", "公演"],
+        "zh": ["文化", "历史", "传统", "博物馆", "寺庙", "宫殿", "节日", "仪式", "韩服", "表演"],
+        "vi": ["văn hóa", "lịch sử", "truyền thống", "bảo tàng", "chùa", "cung điện", "lễ hội", "nghi lễ", "hanbok", "buổi biểu diễn"]
+    },
+    "언어": {
+        "ko": ["언어", "말", "한국어", "인사", "표현", "단어", "발음", "의사소통", "통역", "번역"],
+        "en": ["language", "speak", "Korean", "greeting", "phrase", "word", "pronunciation", "communication", "interpretation", "translation"],
+        "ja": ["言語", "話す", "韓国語", "あいさつ", "表現", "単語", "発音", "コミュニケーション", "通訳", "翻訳"],
+        "zh": ["语言", "说", "韩语", "问候", "短语", "单词", "发音", "沟通", "口译", "翻译"],
+        "vi": ["ngôn ngữ", "nói", "tiếng Hàn", "chào hỏi", "câu", "từ vựng", "phát âm", "giao tiếp", "phiên dịch", "dịch thuật"]
+    },
+    "생활정보": {
+        "ko": ["생활", "정보", "유심", "SIM카드", "인터넷", "세탁", "은행", "환전", "쓰레기", "공공시설"],
+        "en": ["daily life", "information", "sim card", "internet", "laundry", "bank", "currency exchange", "trash", "facility"],
+        "ja": ["生活", "情報", "SIMカード", "インターネット", "洗濯", "銀行", "両替", "ゴミ", "公共施設"],
+        "zh": ["生活", "信息", "SIM卡", "互联网", "洗衣", "银行", "换钱", "垃圾", "公共设施"],
+        "vi": ["cuộc sống", "thông tin", "thẻ SIM", "internet", "giặt ủi", "ngân hàng", "đổi tiền", "rác", "cơ sở công cộng"]
+    }
+  }
+  
